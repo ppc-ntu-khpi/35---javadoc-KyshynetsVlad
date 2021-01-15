@@ -1,9 +1,15 @@
 package test;
 
 import domain.*;
-
+/**
+ * Main class in test package
+ * @author Kyshynets Vlad
+ */
 public class EmployeesTest {
-
+/**
+ * A method that records all information about employees and returns nothing
+ * @param args all recorded employee data
+ */
     public static void main(String args[]) {
 
         String[] skills = {"Microsoft Word", "TeX", "OpenOffice", "Markdown"};
